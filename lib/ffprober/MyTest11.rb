@@ -1,5 +1,5 @@
 module Ffprober
-  class MyTest10
+  class MyTest11
     def initialize(json)
       @json = json
     end
