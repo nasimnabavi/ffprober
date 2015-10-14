@@ -1,5 +1,5 @@
 module Ffprober
-  class myTest6
+  class MYTEST6
     include Ffprober::DynamicInitializer
   end
 end
